@@ -533,11 +533,11 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: -0.1984569, y: 0.45828977, z: -0.10578432, w: -0.859994}
     speed: 2
-    m_Value: {x: -0.20165548, y: 0.45276162, z: -0.105940685, w: -0.86204326}
+    m_Value: {x: -0.19845691, y: 0.4582898, z: -0.10578433, w: -0.85999405}
   m_Size:
     m_Target: 65.76487
     speed: 2
-    m_Value: 62.93289
+    m_Value: 65.76487
   m_Ortho:
     m_Target: 1
     speed: 2
