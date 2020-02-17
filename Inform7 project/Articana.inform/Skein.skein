@@ -1,0 +1,692 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Skein rootNode="node-0">
+  <generator>Windows Inform 7 6M62</generator>
+  <activeNode nodeId="node-77"/>
+  <item nodeId="node-0">
+    <command xml:space="preserve">Articana</command>
+    <result xml:space="preserve">Articana&#x000A;An Interactive Fiction by Articana Troupe&#x000A;Release 1 / Serial number 200216 / Inform 7 build 6M62 (I6/v6.33 lib 6/12N) SD&#x000A;&#x000A;Lobby&#x000A;Entering the church, you are greeted by a nice enough looking lobby.  You see open and tabled areas where church visitors would converse, as well as desks for church relations and small curtained alcoves for confessionals. Nobody seems to be around.&#x000A;&#x000A;There are several archways along the south wall, through which you can see the main church hall.&#x000A;&#x000A;You can see Help Desk here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-1"/>
+      <child nodeId="node-9"/>
+      <child nodeId="node-47"/>
+    </children>
+  </item>
+  <item nodeId="node-1">
+    <command xml:space="preserve">look help desk</command>
+    <result xml:space="preserve">You see nothing special about Help Desk.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-2"/>
+      <child nodeId="node-7"/>
+    </children>
+  </item>
+  <item nodeId="node-2">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Lobby&#x000A;Enterring the chruch, you are greeted by a nice enough looking lobby.  You see open and tabled areas where church visitors would converse, as well as desks for church relations and smal curtainedl alcoves for confessionals.&#x000A;&#x000A;You can see Help Desk here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-3"/>
+    </children>
+  </item>
+  <item nodeId="node-3">
+    <command xml:space="preserve">look confessionals</command>
+    <result xml:space="preserve">You see nothing special about Confessional.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-4"/>
+    </children>
+  </item>
+  <item nodeId="node-4">
+    <command xml:space="preserve">go n</command>
+    <result xml:space="preserve">You can't go that way.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-5"/>
+    </children>
+  </item>
+  <item nodeId="node-5">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">You can't go that way.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-6"/>
+    </children>
+  </item>
+  <item nodeId="node-6">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">Nave&#x000A;Here in the nave, they clearly have the AC runnig full time, as the room is quite colde.  The seating here lines up vertically in 3 distinct sections.  One is on the ground floor you have just walked out in, with the other sections aligned above and below you.  They all surround an icy pillar farther in, a spiral ramp reaching around it.  Behind the pillar, a curved wall blocks view, but a small door near the base leads behind it.&#x000A;&#x000A;You can see Pillar here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-7">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">Nave&#x000A;Here in the nave, the installed heating units seem to be malfunctioning, as the room is quite cold.  Your footsteps echo off of the vaulted ceiling above you.&#x000A;&#x000A;The room is slanted towards the middle, fog gently cascading along the floor towards it. The carved stone pews here are clustered into 3  tiers, one on ground level and one each on the upper and lower tier.They all surround an icy pillar farther in, a spiral ramp reaching around it and the rolling fog lingering around the base.  Behind the pillar along the south wall, a curved wall blocks your view, but a small door near the base appears to lead behind it.&#x000A;&#x000A;You can feel the relative heat of the lobby and see some of the tables through the archways to the north.&#x000A;&#x000A;The pillar seems to pulse as the fog collects around the base. Staring at it long enough, you almost think you can see shapes moving inside the ice...&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-8"/>
+    </children>
+  </item>
+  <item nodeId="node-8">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">Backstage&#x000A;As you enter this small room, you see materials that might be immediately useful to give a sermon scattered about.  There are religious documents, some extra religious symbols, a small machine that gives off an icy fog, as well as some blocks of ice that you remember would be handed out to audience members.  A spiral staircase leading both up and down is in the back of the room.&#x000A;&#x000A;Just a bunch of loose papers, Scanning through them, nothing seems to be out of the ordinary for a sermon of the church of Icidious.&#x000A;&#x000A;You see a smooth slate pendant with a carved impression of an Ice Core on it. Symbols of Icidious" followers.&#x000A;&#x000A;It seems that the thematic fog isn't entirely natural... but most religious services here could add a flair of drama.&#x000A;&#x000A;These look like ice cubes that are given out to believers during sermons. Despite the ambient temperature, they seem not to melt.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-9">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">Nave&#x000A;Here in the nave, the installed heating units seem to be malfunctioning, as the room is quite cold.  Your footsteps echo off of the vaulted ceiling above you.&#x000A;&#x000A;The room is slanted towards the middle, fog gently cascading along the floor towards it. The carved stone pews here are clustered into 3  tiers, one on ground level and one each on the upper and lower tier.They all surround an icy pillar farther in, a spiral ramp reaching around it and the rolling fog lingering around the base.  Behind the pillar along the south wall, a curved wall blocks your view, but a small door near the base appears to lead behind it.&#x000A;&#x000A;You can feel the relative heat of the lobby and see some of the tables through the archways to the north.&#x000A;&#x000A;The pillar seems to pulse as the fog collects around the base. Staring at it long enough, you almost think you can see shapes moving inside the ice...&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-10"/>
+    </children>
+  </item>
+  <item nodeId="node-10">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">Backstage&#x000A;As you enter this small room, you see materials that might be immediately useful to give a sermon scattered about.&#x000A;&#x000A;A spiral staircase leading both up and down is in the back of the room.&#x000A;&#x000A;You can see a Religious Documents, a Religious Symbols, a Fog Machine and an Ice Blocks here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-11"/>
+      <child nodeId="node-27"/>
+      <child nodeId="node-66"/>
+    </children>
+  </item>
+  <item nodeId="node-11">
+    <command xml:space="preserve">look religious documents[tab]</command>
+    <result xml:space="preserve">Just a bunch of loose papers, Scanning through them, nothing seems to be out of the ordinary for a sermon of the church of Icidious.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-12"/>
+    </children>
+  </item>
+  <item nodeId="node-12">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">Nave&#x000A;Here in the nave, the installed heating units seem to be malfunctioning, as the room is quite cold.  Your footsteps echo off of the vaulted ceiling above you.&#x000A;&#x000A;The room is slanted towards the middle, fog gently cascading along the floor towards it. The carved stone pews here are clustered into 3  tiers, one on ground level and one each on the upper and lower tier.They all surround an icy pillar farther in, a spiral ramp reaching around it and the rolling fog lingering around the base.  Behind the pillar along the south wall, a curved wall blocks your view, but a small door near the base appears to lead behind it.&#x000A;&#x000A;You can feel the relative heat of the lobby and see some of the tables through the archways to the north.&#x000A;&#x000A;The pillar seems to pulse as the fog collects around the base. Staring at it long enough, you almost think you can see shapes moving inside the ice...&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-13"/>
+    </children>
+  </item>
+  <item nodeId="node-13">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">Backstage&#x000A;As you enter this small room, you see materials that might be immediately useful to give a sermon scattered about.  There are religious documents, some extra religious symbols, a small machine that gives off an icy fog, as well as some blocks of ice that you remember would be handed out to audience members.  A spiral staircase leading both up and down is in the back of the room.&#x000A;&#x000A;You can see a Religious Documents, a Religious Symbols, a Fog Machine and an Ice Blocks here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-14"/>
+    </children>
+  </item>
+  <item nodeId="node-14">
+    <command xml:space="preserve">up</command>
+    <result xml:space="preserve">Office&#x000A;*IF YOU DONT HAVE A KEY PLS TURN AROUND* This lower area sits below the main floor.  Looking up, the ceiling is clear, giving you another look at the eye imagery of the temple itself.  You've entered an office, containing documents, file cabinets, computers, and a large desk with chairs.  Rummaging around, you notice that in the financial records, the churhc has given a decent amount of money to the group KAOS.  You can clearly see the two are linked now, but why is your new question.&#x000A;&#x000A;You can see a Private Office Door here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-15"/>
+    </children>
+  </item>
+  <item nodeId="node-15">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">(first opening the Private Office Door)&#x000A;&#x000A;Private Office&#x000A;This room is split into two sections.  One appears ike a nice bedroom, the other a well furnished private office.  Documents and books are stacked neatly on the desk in the office.  Rummaging through them, you come across a journal of some kind.  Reading through, you find the evidence you've been looking for.  Acoording to this head priest, the church is using its position to support KAOS by spreading an advocating for CSM, causing more hallucinations.  He makes note that this is the will of Icidious, and  if humanity will abuse the essence of his god, then they will suffer the consequences.  This is what you've been looking for, time to get out of here.&#x000A;&#x000A;You can see a Private Office Door and a Journal here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-16"/>
+    </children>
+  </item>
+  <item nodeId="node-16">
+    <command xml:space="preserve">lock</command>
+    <result xml:space="preserve">What do you want to lock?&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-17"/>
+    </children>
+  </item>
+  <item nodeId="node-17">
+    <command xml:space="preserve">lock door</command>
+    <result xml:space="preserve">The deadbolt clicks into place as you lock the door.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-18"/>
+    </children>
+  </item>
+  <item nodeId="node-18">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">Office&#x000A;*IF YOU DONT HAVE A KEY PLS TURN AROUND* This lower area sits below the main floor.  Looking up, the ceiling is clear, giving you another look at the eye imagery of the temple itself.  You've entered an office, containing documents, file cabinets, computers, and a large desk with chairs.  Rummaging around, you notice that in the financial records, the churhc has given a decent amount of money to the group KAOS.  You can clearly see the two are linked now, but why is your new question.&#x000A;&#x000A;You can see a Private Office Door here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-19"/>
+    </children>
+  </item>
+  <item nodeId="node-19">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">Private Office&#x000A;This room is split into two sections.  One appears ike a nice bedroom, the other a well furnished private office.  Documents and books are stacked neatly on the desk in the office.  Rummaging through them, you come across a journal of some kind.  Reading through, you find the evidence you've been looking for.  Acoording to this head priest, the church is using its position to support KAOS by spreading an advocating for CSM, causing more hallucinations.  He makes note that this is the will of Icidious, and  if humanity will abuse the essence of his god, then they will suffer the consequences.  This is what you've been looking for, time to get out of here.&#x000A;&#x000A;You can see a Private Office Door and a Journal here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-20"/>
+    </children>
+  </item>
+  <item nodeId="node-20">
+    <command xml:space="preserve">lock private office door</command>
+    <result xml:space="preserve">The Private Office Door is already locked.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-21"/>
+    </children>
+  </item>
+  <item nodeId="node-21">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">You can't go that way.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-22"/>
+    </children>
+  </item>
+  <item nodeId="node-22">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">Office&#x000A;*IF YOU DONT HAVE A KEY PLS TURN AROUND* This lower area sits below the main floor.  Looking up, the ceiling is clear, giving you another look at the eye imagery of the temple itself.  You've entered an office, containing documents, file cabinets, computers, and a large desk with chairs.  Rummaging around, you notice that in the financial records, the churhc has given a decent amount of money to the group KAOS.  You can clearly see the two are linked now, but why is your new question.&#x000A;&#x000A;You can see a Private Office Door here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-23"/>
+    </children>
+  </item>
+  <item nodeId="node-23">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">You can't go that way.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-24"/>
+    </children>
+  </item>
+  <item nodeId="node-24">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">You can't go that way.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-25"/>
+    </children>
+  </item>
+  <item nodeId="node-25">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">Private Office&#x000A;This room is split into two sections.  One appears ike a nice bedroom, the other a well furnished private office.  Documents and books are stacked neatly on the desk in the office.  Rummaging through them, you come across a journal of some kind.  Reading through, you find the evidence you've been looking for.  Acoording to this head priest, the church is using its position to support KAOS by spreading an advocating for CSM, causing more hallucinations.  He makes note that this is the will of Icidious, and  if humanity will abuse the essence of his god, then they will suffer the consequences.  This is what you've been looking for, time to get out of here.&#x000A;&#x000A;You can see a Private Office Door and a Journal here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-26"/>
+    </children>
+  </item>
+  <item nodeId="node-26">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">You can't go that way.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-27">
+    <command xml:space="preserve">u</command>
+    <result xml:space="preserve">Office&#x000A;This lower area sits below the main floor.  Looking up, the ceiling is clear, giving you another look at the eye imagery of the temple itself.  You've entered an office, containing documents, file cabinets, computers, and a large desk with chairs. TIme to search the office.&#x000A;&#x000A;You can see a Private Office Door here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>YES</changed>
+    <children>
+      <child nodeId="node-28"/>
+      <child nodeId="node-54"/>
+    </children>
+  </item>
+  <item nodeId="node-28">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">(first opening the Private Office Door)&#x000A;It seems to be locked.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-29"/>
+    </children>
+  </item>
+  <item nodeId="node-29">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">(first opening the Private Office Door)&#x000A;It seems to be locked.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-30"/>
+    </children>
+  </item>
+  <item nodeId="node-30">
+    <command xml:space="preserve">unlock private office door</command>
+    <result xml:space="preserve">You can't unlock the door from this side without the key.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-31"/>
+    </children>
+  </item>
+  <item nodeId="node-31">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">You can't go that way.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-32"/>
+    </children>
+  </item>
+  <item nodeId="node-32">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">You can't go that way.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-33"/>
+    </children>
+  </item>
+  <item nodeId="node-33">
+    <command xml:space="preserve">d</command>
+    <result xml:space="preserve">Backstage&#x000A;As you enter this small room, you see materials that might be immediately useful to give a sermon scattered about.  There are religious documents, some extra religious symbols, a small machine that gives off an icy fog, as well as some blocks of ice that you remember would be handed out to audience members.  A spiral staircase leading both up and down is in the back of the room.&#x000A;&#x000A;You can see a Religious Documents, a Religious Symbols, a Fog Machine and an Ice Blocks here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-34"/>
+    </children>
+  </item>
+  <item nodeId="node-34">
+    <command xml:space="preserve">d</command>
+    <result xml:space="preserve">Old Library&#x000A;This area extends back over the nave.  The floor is clear here, as if a one way window.  Looking down, you see the floors below resemble an eye.  You can't tell if the sudden chill is from the cold or from the feeling of being watched.  This room is lined with shelves containing different books and manuscripts.  Many of them are copies of each other, but each is some piece of religious text or propoganda about Icidious, the ice god.  &#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-35"/>
+    </children>
+  </item>
+  <item nodeId="node-35">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">You can't go that way.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-36"/>
+    </children>
+  </item>
+  <item nodeId="node-36">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">You can't go that way.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-37"/>
+    </children>
+  </item>
+  <item nodeId="node-37">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">Storage Room&#x000A;The floor here is still clear.  The room here is a storage room, containing old stage props, surplus religious wear, and more.  A key sits on a small desk in the corner of the room.  More interestingly, one box contains vials of a light blue liquid you know to be CSM.  To your knowledge, CSM is the root cause of the hallcucinations plaguing the nation.  It is interesting the church has so much of it, but it isn't directly incriminating of anything.  You must keep searching..&#x000A;&#x000A;You can see an Office Key and a CSM here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-38"/>
+    </children>
+  </item>
+  <item nodeId="node-38">
+    <command xml:space="preserve">take key</command>
+    <result xml:space="preserve">Taken.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-39"/>
+    </children>
+  </item>
+  <item nodeId="node-39">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">Old Library&#x000A;This area extends back over the nave.  The floor is clear here, as if a one way window.  Looking down, you see the floors below resemble an eye.  You can't tell if the sudden chill is from the cold or from the feeling of being watched.  This room is lined with shelves containing different books and manuscripts.  Many of them are copies of each other, but each is some piece of religious text or propoganda about Icidious, the ice god.  &#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-40"/>
+    </children>
+  </item>
+  <item nodeId="node-40">
+    <command xml:space="preserve">u</command>
+    <result xml:space="preserve">Backstage&#x000A;As you enter this small room, you see materials that might be immediately useful to give a sermon scattered about.  There are religious documents, some extra religious symbols, a small machine that gives off an icy fog, as well as some blocks of ice that you remember would be handed out to audience members.  A spiral staircase leading both up and down is in the back of the room.&#x000A;&#x000A;You can see a Religious Documents, a Religious Symbols, a Fog Machine and an Ice Blocks here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-41"/>
+    </children>
+  </item>
+  <item nodeId="node-41">
+    <command xml:space="preserve">u</command>
+    <result xml:space="preserve">Office&#x000A;*IF YOU DONT HAVE A KEY PLS TURN AROUND* This lower area sits below the main floor.  Looking up, the ceiling is clear, giving you another look at the eye imagery of the temple itself.  You've entered an office, containing documents, file cabinets, computers, and a large desk with chairs.  Rummaging around, you notice that in the financial records, the churhc has given a decent amount of money to the group KAOS.  You can clearly see the two are linked now, but why is your new question.&#x000A;&#x000A;You can see a Private Office Door here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-42"/>
+    </children>
+  </item>
+  <item nodeId="node-42">
+    <command xml:space="preserve">unlock door</command>
+    <result xml:space="preserve">You unlock the Private Office Door.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-43"/>
+    </children>
+  </item>
+  <item nodeId="node-43">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">You can't go that way.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-44"/>
+    </children>
+  </item>
+  <item nodeId="node-44">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">(first opening the Private Office Door)&#x000A;&#x000A;Private Office&#x000A;This room is split into two sections.  One appears ike a nice bedroom, the other a well furnished private office.  Documents and books are stacked neatly on the desk in the office.  Rummaging through them, you come across a journal of some kind.  Reading through, you find the evidence you've been looking for.  Acoording to this head priest, the church is using its position to support KAOS by spreading an advocating for CSM, causing more hallucinations.  He makes note that this is the will of Icidious, and  if humanity will abuse the essence of his god, then they will suffer the consequences.  This is what you've been looking for, time to get out of here.&#x000A;&#x000A;You can see a Private Office Door and a Journal here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-45"/>
+    </children>
+  </item>
+  <item nodeId="node-45">
+    <command xml:space="preserve">lock door</command>
+    <result xml:space="preserve">The deadbolt clicks into place as you lock the door.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-46"/>
+    </children>
+  </item>
+  <item nodeId="node-46">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">Office&#x000A;*IF YOU DONT HAVE A KEY PLS TURN AROUND* This lower area sits below the main floor.  Looking up, the ceiling is clear, giving you another look at the eye imagery of the temple itself.  You've entered an office, containing documents, file cabinets, computers, and a large desk with chairs.  Rummaging around, you notice that in the financial records, the churhc has given a decent amount of money to the group KAOS.  You can clearly see the two are linked now, but why is your new question.&#x000A;&#x000A;You can see a Private Office Door here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-54">
+    <command xml:space="preserve">search</command>
+    <result xml:space="preserve">(the Private Office Door)&#x000A; Spending several minutes rummaging around, you notice that in the financial records on the computer and in the cabinets, the church has given a decent amount of money to the group KAOS.  You can clearly see the two are linked now, but the new question is... why?&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-55"/>
+    </children>
+  </item>
+  <item nodeId="node-55">
+    <command xml:space="preserve">search office</command>
+    <result xml:space="preserve">Spending several minutes rummaging around, you notice that in the financial records on the computer and in the cabinets, the church has given a decent amount of money to the group KAOS.  You can clearly see the two are linked now, but the new question is... why?&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-56"/>
+    </children>
+  </item>
+  <item nodeId="node-56">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">You can't go that way.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-57"/>
+    </children>
+  </item>
+  <item nodeId="node-57">
+    <command xml:space="preserve">go through door</command>
+    <result xml:space="preserve">(first opening the Private Office Door)&#x000A;It seems to be locked.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-58"/>
+    </children>
+  </item>
+  <item nodeId="node-58">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-59"/>
+    </children>
+  </item>
+  <item nodeId="node-59">
+    <command xml:space="preserve">d</command>
+    <result xml:space="preserve">Backstage&#x000A;As you enter this small room, you see materials that might be immediately useful to give a sermon scattered about.&#x000A;&#x000A;A spiral staircase leading both up and down is in the back of the room.&#x000A;&#x000A;You can see a Religious Documents, a Religious Symbols, a Fog Machine and an Ice Blocks here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-60"/>
+    </children>
+  </item>
+  <item nodeId="node-60">
+    <command xml:space="preserve">d</command>
+    <result xml:space="preserve">Old Library&#x000A;This area extends back over the nave.  The floor is clear here, as if a one way window.  Looking down, you see the floors below resemble an eye.  You can't tell if the sudden chill rolling up your spine is from the cold or from the feeling of being watched.  This room is lined with shelves containing different books and manuscripts.  Many of them are copies of each other, but each is some piece of religious text or propoganda about Icidious, the ice god.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-61"/>
+    </children>
+  </item>
+  <item nodeId="node-61">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">You can't go that way.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-62"/>
+    </children>
+  </item>
+  <item nodeId="node-62">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">You can't go that way.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-63"/>
+    </children>
+  </item>
+  <item nodeId="node-63">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">You can't go that way.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-64"/>
+    </children>
+  </item>
+  <item nodeId="node-64">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">Storage Room&#x000A;The floor here is still clear.  The room here is a storage room, containing old stage props, surplus religious wear, and more.  A key sits on a small desk in the corner of the room.  A box in the corner labeled FRAGILE looks to have been moved recently.&#x000A;&#x000A;You can see an Office Key and a Fragile Box here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-65"/>
+    </children>
+  </item>
+  <item nodeId="node-65">
+    <command xml:space="preserve">look box</command>
+    <result xml:space="preserve">More interestingly, this box contains vials of a light blue liquid you know to be CSM.  From your previous research, you know that CSM is the root cause of the hallucinations plaguing the nation.  It is interesting the church has so much of it, but it is something that could easily be explained away.  You must keep searching..&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-66">
+    <command xml:space="preserve">d</command>
+    <result xml:space="preserve">Old Library&#x000A;This area extends back over the nave.  The floor is clear here, as if a one way window.  Looking down, you see the floors below resemble an eye.  You can't tell if the sudden chill rolling up your spine is from the cold or from the feeling of being watched.  This room is lined with shelves containing different books and manuscripts.  Many of them are copies of each other, but each is some piece of religious text or propoganda about Icidious, the ice god.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-67"/>
+    </children>
+  </item>
+  <item nodeId="node-67">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">You can't go that way.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-68"/>
+    </children>
+  </item>
+  <item nodeId="node-68">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">You can't go that way.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-69"/>
+    </children>
+  </item>
+  <item nodeId="node-69">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">Storage Room&#x000A;The floor here is still clear.  The room here is a storage room, containing old stage props, surplus religious wear, and more.  A key sits on a small desk in the corner of the room.  A box in the corner labeled FRAGILE looks to have been moved recently.&#x000A;&#x000A;You can see an Office Key and a FRAGILE Box here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-70"/>
+    </children>
+  </item>
+  <item nodeId="node-70">
+    <command xml:space="preserve">take key</command>
+    <result xml:space="preserve">Taken.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-71"/>
+    </children>
+  </item>
+  <item nodeId="node-71">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">Old Library&#x000A;This area extends back over the nave.  The floor is clear here, as if a one way window.  Looking down, you see the floors below resemble an eye.  You can't tell if the sudden chill rolling up your spine is from the cold or from the feeling of being watched.  This room is lined with shelves containing different books and manuscripts.  Many of them are copies of each other, but each is some piece of religious text or propoganda about Icidious, the ice god.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-72"/>
+    </children>
+  </item>
+  <item nodeId="node-72">
+    <command xml:space="preserve">u</command>
+    <result xml:space="preserve">Backstage&#x000A;As you enter this small room, you see materials that might be immediately useful to give a sermon scattered about.&#x000A;&#x000A;A spiral staircase leading both up and down is in the back of the room.&#x000A;&#x000A;You can see a Religious Documents, a Religious Symbols, a Fog Machine and an Ice Blocks here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-73"/>
+    </children>
+  </item>
+  <item nodeId="node-73">
+    <command xml:space="preserve">u</command>
+    <result xml:space="preserve">Office&#x000A;This lower area sits below the main floor.  Looking up, the ceiling is clear, giving you another look at the eye imagery of the temple itself.  You've entered an office, containing documents, file cabinets, computers, and a large desk with chairs. The office would be a smart place to search.&#x000A;&#x000A;There is a dark door to the north, and a door to the east labeled "PRIVATE - FOR THE HEAD PRIEST ONLY".&#x000A;&#x000A;You can see a Private Office Door here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-74"/>
+    </children>
+  </item>
+  <item nodeId="node-74">
+    <command xml:space="preserve">unlock door</command>
+    <result xml:space="preserve">You unlock the Private Office Door.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-75"/>
+    </children>
+  </item>
+  <item nodeId="node-75">
+    <command xml:space="preserve">go through door</command>
+    <result xml:space="preserve">(first opening the Private Office Door)&#x000A;&#x000A;Private Office&#x000A;You enter a well-furnished private office.  Documents and books are stacked neatly on the desk in the office. Considering the room's previously locked state, you have a good feeling about searching this room.&#x000A;&#x000A;You can see a bedroom through the open door to the south.&#x000A;&#x000A;You can see a Private Office Door here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-76"/>
+    </children>
+  </item>
+  <item nodeId="node-76">
+    <command xml:space="preserve">search office</command>
+    <result xml:space="preserve">(the Office Key)&#x000A;Rummaging through the desk, you come across a journal of some kind.  Reading through it, you find the evidence you've been looking for.  According to this head priest, the church is using its position to support KAOS by advocating the use of CSM and distributing it to its parishioners, causing more hallucinations.  He makes note that this is the will of Icidious, and if humanity will abuse the essence of his god, then they must suffer the consequences.&#x000A;&#x000A;This is what you've been looking for! Time to get out of here before anyone returns!&#x000A;&#x000A;Taken.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-77"/>
+    </children>
+  </item>
+  <item nodeId="node-77">
+    <command xml:space="preserve">i</command>
+    <result xml:space="preserve">You are carrying:&#x000A;  a Journal&#x000A;  an Office Key&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-47">
+    <command xml:space="preserve">look help</command>
+    <result xml:space="preserve">Nobody is sitting here. You ding the bell, and noone comes.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-48"/>
+    </children>
+  </item>
+  <item nodeId="node-48">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">Nave&#x000A;Here in the nave, the installed heating units seem to be malfunctioning, as the room is quite cold.  Your footsteps echo off of the vaulted ceiling above you.&#x000A;&#x000A;The room is slanted towards the middle, fog gently cascading along the floor towards it. The carved stone pews here are clustered into 3  tiers, one on ground level and one each on the upper and lower tier.They all surround an icy pillar farther in, a spiral ramp reaching around it and the rolling fog lingering around the base.  Behind the pillar along the south wall, a curved wall blocks your view, but a small door near the base appears to lead behind it.&#x000A;&#x000A;You can feel the relative heat of the lobby and see some of the tables through the archways to the north.&#x000A;&#x000A;The pillar seems to pulse as the fog collects around the base. Staring at it long enough, you almost think you can see shapes moving inside the ice...&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-49"/>
+    </children>
+  </item>
+  <item nodeId="node-49">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">Backstage&#x000A;As you enter this small room, you see materials that might be immediately useful to give a sermon scattered about.&#x000A;&#x000A;A spiral staircase leading both up and down is in the back of the room.&#x000A;&#x000A;You can see a Religious Documents, a Religious Symbols, a Fog Machine and an Ice Blocks here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-50"/>
+    </children>
+  </item>
+  <item nodeId="node-50">
+    <command xml:space="preserve">u</command>
+    <result xml:space="preserve">Office&#x000A;This lower area sits below the main floor.  Looking up, the ceiling is clear, giving you another look at the eye imagery of the temple itself.  You've entered an office, containing documents, file cabinets, computers, and a large desk with chairs. TIme to search the office.&#x000A;&#x000A;You can see a Private Office Door here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-51"/>
+    </children>
+  </item>
+  <item nodeId="node-51">
+    <command xml:space="preserve">search</command>
+    <result xml:space="preserve">(the Private Office Door)&#x000A;You find nothing of interest.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-52"/>
+    </children>
+  </item>
+  <item nodeId="node-52">
+    <command xml:space="preserve">search office</command>
+    <result xml:space="preserve">You find nothing of interest.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-53"/>
+    </children>
+  </item>
+  <item nodeId="node-53">
+    <command xml:space="preserve">search</command>
+    <result xml:space="preserve">(the Private Office Door)&#x000A;You find nothing of interest.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+</Skein>
