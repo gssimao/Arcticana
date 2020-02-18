@@ -4,17 +4,5 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes:
-  - enabled: 1
-    path: Assets/Scenes/IndividualBuildScenes/GabeBuildScene.unity
-    guid: 44fae55e4ec150b4797a5547107629b4
-  - enabled: 1
-    path: Assets/Scenes/IndividualBuildScenes/AlexBuildScene.unity
-    guid: 9fc0d4010bbf28b4594072e72b8655ab
-  - enabled: 1
-    path: Assets/Scenes/IndividualBuildScenes/DominikBuildScene.unity
-    guid: bba1131f93efca44aa020f857a3e4f68
-  - enabled: 1
-    path: Assets/Scenes/IndividualBuildScenes/JasonBuildScene.unity
-    guid: 51d3032affb0ba7438399c1dbe20aee3
+  m_Scenes: []
   m_configObjects: {}
